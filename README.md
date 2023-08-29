@@ -8,3 +8,7 @@
 
 - npm run dev (para ejecutar nodemon)
 - npm run start (para ejecutar)
+
+## Swagger
+
+- ingresar en http://localhost:4000/swagger
